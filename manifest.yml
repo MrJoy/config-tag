@@ -1,4 +1,5 @@
 name: "ConfigTag"
+slug: "config-tag"
 author: "Brandon Mathis"
 description: "ConfigTag reads a Jekyll config and writes an HTML tag with its values as HTML5 data attributes"
 url: "https://github.com/octopress/config-tag"
